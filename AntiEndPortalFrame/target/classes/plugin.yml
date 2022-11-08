@@ -1,0 +1,8 @@
+name: AntiEndPortalFrame
+version: '1.0'
+main: strictmcru.antiendportalframe.antiendportalframe.AntiEndPortalFrame
+api-version: 1.16
+softdepend: [ StrictAPI ]
+authors: [ parimek, StrictMC ]
+description: Anti place End Portal Frame! End Portal Frame replace to End Portal
+website: https://strictmc.ru
